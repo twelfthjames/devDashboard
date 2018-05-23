@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/twelfthjames/devDashboard.git",
   "author": "Twelfth & James Media Group.",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3",
+    "webpack-dev-server": "^3.1.4"
+  }
 }

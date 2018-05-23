@@ -1,0 +1,9 @@
+{
+  "name": "dev-dashboard",
+  "version": "1.0.0",
+  "description": "Twelfth & James - Development/Staging Overview",
+  "main": "index.js",
+  "repository": "https://github.com/twelfthjames/devDashboard.git",
+  "author": "Twelfth & James Media Group.",
+  "license": "MIT"
+}
